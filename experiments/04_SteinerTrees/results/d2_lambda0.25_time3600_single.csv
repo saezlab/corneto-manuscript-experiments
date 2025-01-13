@@ -1,0 +1,2 @@
+dataset,num_samples,num_nodes,num_terminals,num_common_nodes,mode,lambda,max_time,mean_prop_score,total_edges_across_samples
+datasets/d2,10,1000,20,5,single,0.25,3600,1.0,238
