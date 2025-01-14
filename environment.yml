@@ -1,0 +1,28 @@
+name: corneto-experiments
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter==1.1.1
+  - networkx==3.4.2
+  - numpy==1.26.4
+  - pandas==2.2.3
+  - pyarrow==18.1.0
+  - python-graphviz==0.20.3
+  - scanpy==1.10.4
+  - scikit-learn==1.6.0
+  - scipy==1.14.1
+  - seaborn==0.13.2
+  - pip:
+    - cvxpy-base==1.6.0
+    - highspy==1.9.0
+    - jax==0.4.38
+    - keras==3.7.0
+    - pcst-fast==1.0.10
+    - pyscipopt==5.2.1
+    - gurobipy==12.0.0
+    - pyscipopt==5.2.1
+    - highspy==1.9.0
+    - omnipath==1.0.8
+    - decoupler==1.8.0
+    - cobra==0.29.1
