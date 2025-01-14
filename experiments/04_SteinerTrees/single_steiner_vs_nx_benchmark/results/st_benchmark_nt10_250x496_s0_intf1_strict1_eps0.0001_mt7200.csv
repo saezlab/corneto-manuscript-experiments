@@ -1,0 +1,3 @@
+seed,n_terminals,graph_nodes,graph_edges,is_scale_free,scale_free_params,total_weight,max_time,tolerance,strict_acyclic,integrality_focus,method,nodes_steiner,edges_steiner,cost_of_steiner_tree,cost_diff,time,time_diff
+0,10,250,496,False,"5,0.1",262.5574049545011,,0.0001,,,nx,21,20,4.384743834997618,0.24579462393062723,0.00807809829711914,-3.999279022216797
+0,10,250,496,False,"5,0.1",262.5574049545011,7200.0,0.0001,1.0,1.0,corneto,21,20,4.138949211066991,-0.24579462393062723,4.007357120513916,3.999279022216797

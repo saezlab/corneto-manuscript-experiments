@@ -1,0 +1,39 @@
+{
+    "config": {
+        "num_nodes": 500,
+        "new_edges_per_node": 2,
+        "num_terminals": 20,
+        "num_samples": 10,
+        "alpha": 0.2,
+        "variance": 0.0,
+        "seed": 2327285019,
+        "output_dir": "dataset_nn500_ne2_nt20_ns10_a0.2_v0.0_s2327285019",
+        "terminals": [
+            1,
+            234,
+            290,
+            448,
+            47,
+            484,
+            432,
+            440,
+            396,
+            24,
+            242,
+            373,
+            143,
+            333,
+            211,
+            152,
+            312,
+            72,
+            414,
+            194
+        ]
+    },
+    "lib_version": {
+        "corneto": "1.0.0.dev0",
+        "networkx": "3.3",
+        "numpy": "1.26.4"
+    }
+}
