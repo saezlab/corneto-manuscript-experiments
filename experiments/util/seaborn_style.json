@@ -1,0 +1,29 @@
+{
+    "style": "ticks",
+    "context": "paper",
+    "palette": "muted",
+    "rc": {
+        "axes.labelsize": 16,
+        "axes.titlesize": 18,
+        "xtick.labelsize": 14,
+        "ytick.labelsize": 14,
+        "legend.fontsize": 14,
+        "legend.title_fontsize": 16,
+        "axes.grid": true,
+        "grid.linestyle": "--",
+        "grid.alpha": 0.5,
+        "axes.edgecolor": "black",
+        "axes.linewidth": 1,
+        "xtick.direction": "in",
+        "ytick.direction": "in",
+        "xtick.major.size": 5,
+        "ytick.major.size": 5,
+        "xtick.minor.size": 3,
+        "ytick.minor.size": 3,
+        "xtick.color": "black",
+        "ytick.color": "black",
+        "xtick.major.width": 1,
+        "ytick.major.width": 1,
+        "savefig.dpi": 300
+    }
+}
